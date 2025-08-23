@@ -1,3 +1,5 @@
+![Imagem de Propaganda](https://github.com/Gustavo-de-Lima-G-000-Akiko-Yuuuki/GPU-Selenium-web-search/blob/main/Image2.png?raw=true)
+
 # Python Web Page Reloader
 
 Este projeto oferece uma ferramenta baseada em Python para recarregar páginas web automaticamente usando `undetected_chromedriver`. Ele é projetado para simular o comportamento de um usuário real, evitando detecções de bots e permitindo o recarregamento de páginas para diversos propósitos, como monitoramento, testes de carga ou interação contínua com conteúdo dinâmico.
@@ -110,3 +112,12 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou enviar
 ## Licença
 
 Este projeto está licenciado sob a licença MIT. Veja o arquivo `LICENSE` para mais detalhes. (Assumindo licença MIT, crie o arquivo se não existir).
+
+
+
+![Imagem de Propaganda](https://github.com/Gustavo-de-Lima-G-000-Akiko-Yuuuki/GPU-Selenium-web-search/blob/main/Image2.png?raw=true)
+
+
+
+
+![Imagem de Propaganda](/home/ubuntu/upload/ChatGPTImage13deago.de2025,21_54_12.png)
