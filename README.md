@@ -1,4 +1,4 @@
-![Imagem de Propaganda](https://github.com/Gustavo-de-Lima-G-000-Akiko-Yuuuki/Menu-.BAT-Suporte-T-cnico-Avan-ado/blob/main/imagem.png?raw=true)
+![Imagem de Propaganda](https://github.com/Gustavo-de-Lima-G-000-Akiko-Yuuuki/GPU-Selenium-web-search/blob/main/Image2.png?raw=true)
 
 # Python Web Page Reloader
 
